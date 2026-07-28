@@ -1,4 +1,4 @@
-# 13 — Workflow Automation Showcase
+# Workflow Automation Showcase
 
 ## Prepared by
 Goodness Ajii, RN  
