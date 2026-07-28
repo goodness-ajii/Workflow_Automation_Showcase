@@ -1,436 +1,325 @@
-# 13 — Workflow Automation Showcase
+# Workflow Automation Showcase
 
-## Prepared by
+**Prepared by**  
 Goodness Ajii, RN  
-Certified Medical Virtual Assistant | Workflow Automation Specialist
+Certified Medical Virtual Assistant | Workflow Automation Specialist  
 
-## Tools Demonstrated
-Zapier · n8n · Airtable · AI Workflow Concepts
+**Tools Demonstrated**  
+Zapier · n8n · Airtable · AI Workflow Concepts  
+
+---
 
 ## Purpose
+
 Live demonstration of workflow automation systems designed, built, tested, and documented across multiple automation platforms.
 
 ---
 
-# Overview
+## Overview
 
 This portfolio contains verified automation builds demonstrating practical workflow design, business process improvement, database automation, and healthcare operations optimization.
 
 Each project demonstrates:
 
-- The business problem being solved
-- The automation workflow logic
-- The tools and integrations used
-- Successful execution evidence
-- Operational value created
+- The business problem being solved  
+- The automation workflow logic  
+- The tools and integrations used  
+- Successful execution evidence  
+- Operational value created  
 
 These are not templates or theoretical examples. They are functional workflow builds created and tested in live environments.
 
 ---
 
-# Automation Portfolio Projects
+## Automation Portfolio Projects
 
----
+### 01 — Zapier: Google Forms → Google Sheets → Gmail Confirmation Workflow
 
-# 01 — Zapier: Google Forms → Google Sheets → Gmail Confirmation Workflow
+**Tool:** Zapier  
+**Workflow Name:** Forms-Sheets + Gmail Confirmation  
+**Account:** Ajii G.  
 
-## Tool
-Zapier
-
-## Workflow Name
-Forms-Sheets + Gmail Confirmation
-
-## Account
-Ajii G.
-
-## What It Does
-
+**What It Does**  
 Automates the complete intake confirmation process:
 
-1. A new form response is submitted through Google Forms
-2. Data is automatically captured in Google Sheets
-3. A confirmation email is immediately sent through Gmail
+1. A new form response is submitted through Google Forms  
+2. Data is automatically captured in Google Sheets  
+3. A confirmation email is immediately sent through Gmail  
 
-## Business Value
+**Business Value**  
+Removes manual data entry and reduces response delays.
 
-This removes manual data entry and reduces response delays.
+**Applicable use cases:**
 
-Applicable use cases:
+- Patient intake confirmation  
+- Student enrollment inquiries  
+- Customer onboarding  
+- Appointment requests  
 
-- Patient intake confirmation
-- Student enrollment inquiries
-- Customer onboarding
-- Appointment requests
-
-## Evidence
-
-Status: Successful
-
+**Evidence**  
+Status: **Successful**  
 Execution verified with:
 
-- Form response captured successfully
-- Google Sheets record created
-- Gmail confirmation sent successfully
+- Form response captured successfully  
+- Google Sheets record created  
+- Gmail confirmation sent successfully  
 
 ---
 
-# 02 — n8n: Student Registration Conditional Routing Workflow
+### 02 — n8n: Student Registration Conditional Routing Workflow
 
-## Tool
-n8n
+**Tool:** n8n  
+**Workflow Name:** Student Registration  
+**Workspace:** GoodnessAjii Personal Workspace  
+**Status:** Published  
 
-## Workflow Name
-Student Registration
-
-## Workspace
-GoodnessAjii Personal Workspace
-
-## Status
-Published
-
-## What It Does
-
+**What It Does**  
 Automates student registration using conditional workflow logic.
 
-Process:
+**Process:**
 
-Form submission received
+1. Form submission received  
+2. Conditional If node evaluates criteria  
+3. Qualified submissions are routed automatically:  
+   - Advanced program track  
+   - Beginner program track  
 
-↓
-
-Conditional If node evaluates criteria
-
-↓
-
-Qualified submissions are routed automatically:
-
-- Advanced program track
-- Beginner program track
-
-## Business Value
-
+**Business Value**  
 Eliminates manual sorting of applications.
 
-Applicable use cases:
+**Applicable use cases:**
 
-- Training program enrollment
-- Healthcare certification onboarding
-- Customer qualification
-- Lead segmentation
+- Training program enrollment  
+- Healthcare certification onboarding  
+- Customer qualification  
+- Lead segmentation  
 
-## Skills Demonstrated
+**Skills Demonstrated**
 
-- Workflow logic design
-- Conditional branching
-- Automated record routing
-- Process optimization
+- Workflow logic design  
+- Conditional branching  
+- Automated record routing  
+- Process optimization  
 
 ---
 
-# 03 — Airtable: Customer Orders Automation
+### 03 — Airtable: Customer Orders Automation
 
-## Tool
-Airtable Automations
+**Tool:** Airtable Automations  
+**Base:** Customer Orders  
+**Status:** Automation ON  
 
-## Base
-Customer Orders
-
-## Status
-Automation ON
-
-## What It Does
-
+**What It Does**  
 Automates linked record creation between database tables.
 
-Workflow:
+**Workflow:**
 
-New customer record created
+1. New customer record created  
+2. Automation triggers  
+3. Matching order record created automatically  
 
-↓
-
-Automation triggers
-
-↓
-
-Matching order record created automatically
-
-## Business Value
-
+**Business Value**  
 Demonstrates relational database automation for:
 
-- CRM systems
-- Client management
-- Enrollment databases
-- Order management
+- CRM systems  
+- Client management  
+- Enrollment databases  
+- Order management  
 
-## Skills Demonstrated
+**Skills Demonstrated**
 
-- Airtable automation
-- Database relationships
-- Record management
-- Workflow triggers
+- Airtable automation  
+- Database relationships  
+- Record management  
+- Workflow triggers  
 
 ---
 
-# 04 — Airtable: Sales Tracker Relational Database
+### 04 — Airtable: Sales Tracker Relational Database (Products)
 
-## Tool
-Airtable
+**Tool:** Airtable  
+**Base:** Sales Tracker  
+**Table:** Products  
 
-## Base
-Sales Tracker
-
-## Table
-Products
-
-## What It Demonstrates
-
+**What It Demonstrates**  
 A structured relational database system containing:
 
-- Product information
-- Pricing
-- Categories
-- Linked order records
+- Product information  
+- Pricing  
+- Categories  
+- Linked order records  
 
-Features:
+**Features:**
 
-- Linked fields
-- Structured data relationships
-- Category organization
-- Automated information retrieval
+- Linked fields  
+- Structured data relationships  
+- Category organization  
+- Automated information retrieval  
 
-## Business Value
-
+**Business Value**  
 Demonstrates database architecture applicable to:
 
-- CRM systems
-- Inventory management
-- Student management systems
-- Healthcare resource tracking
+- CRM systems  
+- Inventory management  
+- Student management systems  
+- Healthcare resource tracking  
 
 ---
 
-# 05 — Airtable: Sales Tracker Relational Database
+### 05 — Airtable: Sales Tracker Relational Database (Orders)
 
-## Tool
-Airtable
+**Tool:** Airtable  
+**Base:** Sales Tracker  
+**Table:** Orders  
 
-## Base
-Sales Tracker
-
-## Table
-Orders
-
-## What It Demonstrates
-
+**What It Demonstrates**  
 A connected order management database linked with the Products table.
 
-Features:
+**Features:**
 
-- Linked product records
-- Lookup fields
-- Automated price retrieval
-- Relational data management
+- Linked product records  
+- Lookup fields  
+- Automated price retrieval  
+- Relational data management  
 
-## Business Value
-
-Shows practical database design beyond simple data entry.
-
+**Business Value**  
+Shows practical database design beyond simple data entry.  
 Demonstrates ability to build structured operational systems.
 
 ---
 
-# 06 — US Training Institute Student Inquiry Automation
+### 06 — US Training Institute Student Inquiry Automation
 
-## Tool
-Zapier
+**Tool:** Zapier  
+**Status:** Successful  
 
-## Status
-Successful
-
-## Purpose
-
+**Purpose**  
 Automate student inquiry management for a US-based healthcare career training institute.
 
-## Workflow
+**Workflow:**
 
-Student submits inquiry form
+1. Student submits inquiry form  
+2. Information captured automatically  
+3. Google Sheets tracker updated  
+4. Professional Gmail confirmation sent  
 
-↓
-
-Information captured automatically
-
-↓
-
-Google Sheets tracker updated
-
-↓
-
-Professional Gmail confirmation sent
-
-## Business Value
-
+**Business Value**  
 Reduces administrative workload and ensures every inquiry receives immediate acknowledgment.
 
-Applicable to:
+**Applicable to:**
 
-- Healthcare training programs
-- Patient inquiries
-- Business lead generation
+- Healthcare training programs  
+- Patient inquiries  
+- Business lead generation  
 
 ---
 
-# 07 — Student Follow-Up Automation Workflow
+### 07 — Student Follow-Up Automation Workflow
 
-## Tool
-Zapier
+**Tool:** Zapier  
+**Status:** Published  
 
-## Status
-Published
-
-## Purpose
-
+**Purpose**  
 Automated follow-up system for student inquiries.
 
-## Workflow
+**Workflow:**
 
-New inquiry detected
+1. New inquiry detected  
+2. Automation waits 2 days  
+3. Follow-up email sent automatically if enrollment is incomplete  
 
-↓
-
-Automation waits 2 days
-
-↓
-
-Follow-up email sent automatically if enrollment is incomplete
-
-## Business Value
-
+**Business Value**  
 Prevents missed opportunities by eliminating manual follow-up tasks.
 
-Applicable to:
+**Applicable to:**
 
-- Lead nurturing
-- Customer onboarding
-- Patient engagement
-- Sales pipelines
+- Lead nurturing  
+- Customer onboarding  
+- Patient engagement  
+- Sales pipelines  
 
 ---
 
-# 08 — Healthcare Appointment Scheduling Dashboard & Workflow Management System
+### 08 — Healthcare Appointment Scheduling Dashboard & Workflow Management System
 
-## Tool
-Airtable
+**Tool:** Airtable  
 
-## Purpose
-
+**Purpose**  
 A centralized healthcare appointment management system designed to improve scheduling visibility, patient coordination, and administrative efficiency.
 
-## Problem Solved
-
+**Problem Solved**  
 Healthcare teams often manage appointments manually across spreadsheets and disconnected systems, creating challenges such as:
 
-- Missed reminders
-- Poor provider visibility
-- Insurance verification delays
-- Difficulty tracking appointment status
+- Missed reminders  
+- Poor provider visibility  
+- Insurance verification delays  
+- Difficulty tracking appointment status  
 
-## Solution Built
-
+**Solution Built**  
 Created structured appointment management views:
 
-- Today's appointments
-- Upcoming appointments
-- Provider schedules
-- Reminder needed
-- Insurance pending
-- Telehealth appointments
-- Completed appointments
-- Cancelled appointments
+- Today’s appointments  
+- Upcoming appointments  
+- Provider schedules  
+- Reminder needed  
+- Insurance pending  
+- Telehealth appointments  
+- Completed appointments  
+- Cancelled appointments  
 
-## Automation Opportunities
+**Automation Opportunities**
 
-Future workflow integrations:
+- Appointment reminder automation → Patient notification → Confirmation tracking  
+- Insurance verification workflow → Verification request → Status update  
+- Cancellation recovery workflow → Patient notification → Rescheduling process  
 
-Appointment reminder automation
+**Skills Demonstrated**
 
-↓
-
-Patient notification
-
-↓
-
-Confirmation tracking
-
-
-Insurance verification workflow
-
-↓
-
-Verification request
-
-↓
-
-Status update
-
-
-Cancellation recovery workflow
-
-↓
-
-Patient notification
-
-↓
-
-Rescheduling process
-
-## Skills Demonstrated
-
-- Airtable database design
-- Healthcare workflow mapping
-- Operational dashboard creation
-- Process improvement
-- Automation planning
+- Airtable database design  
+- Healthcare workflow mapping  
+- Operational dashboard creation  
+- Process improvement  
+- Automation planning  
 
 ---
 
-# Automation Tools Summary
+## Automation Tools Summary
 
-| Tool | Capability Demonstrated | Status |
-|---|---|---|
-| Zapier | Forms, Sheets, Gmail automation workflows | Successful |
-| n8n | Conditional routing and workflow logic | Published |
-| Airtable Automations | Trigger-based database automation | Active |
-| Airtable Database | Relational tables and linked records | Built |
-| Healthcare Dashboard | Appointment operations management | Built |
-
----
-
-# Core Automation Skills Demonstrated
-
-- Workflow automation design
-- Business process automation
-- No-code and low-code development
-- n8n workflow creation
-- Zapier integrations
-- Airtable database architecture
-- Conditional logic workflows
-- API and webhook concepts
-- Healthcare operations optimization
-- Process documentation
-- Operational efficiency improvement
+| Tool                | Capability Demonstrated                     | Status     |
+|---------------------|---------------------------------------------|------------|
+| Zapier              | Forms, Sheets, Gmail automation workflows   | Successful |
+| n8n                 | Conditional routing and workflow logic      | Published  |
+| Airtable Automations| Trigger-based database automation           | Active     |
+| Airtable Database   | Relational tables and linked records        | Built      |
+| Healthcare Dashboard| Appointment operations management           | Built      |
 
 ---
 
-# Verification Note
+## Core Automation Skills Demonstrated
+
+- Workflow automation design  
+- Business process automation  
+- No-code and low-code development  
+- n8n workflow creation  
+- Zapier integrations  
+- Airtable database architecture  
+- Conditional logic workflows  
+- API and webhook concepts  
+- Healthcare operations optimization  
+- Process documentation  
+- Operational efficiency improvement  
+
+---
+
+## Verification Note
 
 All workflows were created and tested by Goodness Ajii.
 
 Screenshots demonstrate:
 
-- Live automation environments
-- Successful workflow executions
-- Verified account ownership
-- Functional workflow configurations
+- Live automation environments  
+- Successful workflow executions  
+- Verified account ownership  
+- Functional workflow configurations  
 
 This portfolio represents continuous professional development in workflow automation, healthcare operations, and AI-powered business process improvement.
