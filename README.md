@@ -376,9 +376,9 @@ Workflow Automation Specialist
 
 For automation projects, healthcare operations support, and workflow improvement:
 
-Email: [Your Email]
+Email: goodnessajii@gmail.com
 
-LinkedIn: [Your LinkedIn]
+LinkedIn: https://www.linkedin.com/in/goodness-ajii 
 
 ---
 
