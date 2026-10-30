@@ -96,7 +96,7 @@ For my AI automation work and current projects, see my [GitHub profile](https://
 
 A relational product table holding products, pricing, and categories, linked to sales records.
 
-![Airtable Products Table](04_Airtable_Sales_Tracker_Products_Table.png.png)
+![Airtable Products Table](04_Airtable_Sales_Tracker_Products_Table.png)
 
 **Applies to:** inventory tracking, product catalogs, order management.
 
@@ -108,11 +108,11 @@ A relational product table holding products, pricing, and categories, linked to 
 
 An orders table linked to the product table, so each order pulls product and price details automatically.
 
-![Airtable Orders Table](05_Airtable_Sales_Tracker_Orders_Table.pn.png)
+![Airtable Orders Table](05_Airtable_Sales_Tracker_Orders_Table.png)
 
 ---
 
-## 06. Training Institute Student Inquiry Automation
+## 06. Healthcare Training Institute Student Inquiry Automation
 
 **Platform:** Zapier
 
@@ -129,7 +129,7 @@ An orders table linked to the product table, so each order pulls product and pri
 
 ---
 
-## 07. Training Institute Eligibility Screening
+## 07. Healthcare Training Institute Eligibility Screening
 
 **Platform:** n8n and Airtable
 
@@ -146,7 +146,7 @@ An orders table linked to the product table, so each order pulls product and pri
 
 ---
 
-## 08. Two Day Student Follow Up Automation
+## 08. Two Day Healthcare Student Follow Up Automation
 
 **Platform:** Zapier
 
